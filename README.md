@@ -48,11 +48,10 @@ Flutter app with Google Maps integration to show SMA & RS locations in Padang.
 
 ## 📫 Contact
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)  
-- 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
+- 📧 Email: [sepvirgolino@gmail.com](mailto:sepvirgolino@gmail.com)  
+- 📷 Instagram: [@r.lino](https://instagram.com/r.lino)  
+- 💼 LinkedIn: [linkedin.com/in/revolino-sepvirgo](https://www.linkedin.com/in/revolino-sepvirgo)
 
 ---
 
 > _“Code with purpose, ship with confidence.”_
-
