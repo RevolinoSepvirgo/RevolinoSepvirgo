@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="https://i.ibb.co/ZVh01dm/banner-github-revolino.png" alt="Revolino Sepvirgo Banner" />
+</p>
+
 # 👋 Hi, I'm Revolino Sepvirgo
 
 🎓 A passionate **Web & Mobile Developer**  
 🔧 Skilled in **Flutter**, **Laravel**, **Lumen**, **Dart**, **HTML**, and **MySQL**
+
+![Profile Views](https://komarev.com/ghpvc/?username=RevolinoSepvirgo&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/RevolinoSepvirgo?label=Followers&style=social)
 
 ---
 
@@ -9,6 +16,16 @@
 
 I love building intuitive and responsive apps, both for the web and mobile.  
 Currently focusing on integrating **Google Maps**, **SQLite**, and **modern Laravel APIs** into production-ready apps.
+
+I'm enthusiastic about clean UI, efficient backend, and building solutions that people actually use.
+
+---
+
+## 🔭 Currently Working On
+
+- 🚧 Improving UI/UX on my School Map App
+- 🔌 Building REST API with Laravel for Finance App
+- 📚 Learning advanced state management in Flutter (Bloc & Riverpod)
 
 ---
 
@@ -36,6 +53,23 @@ Flutter app with Google Maps integration to show SMA & RS locations in Padang.
 
 ---
 
+## 🏅 Certifications
+
+- 📜 Dicoding Flutter Developer — 2024
+- 📜 Google Indonesia Scholarship (Mobile Track) — 2023
+
+---
+
+## 💬 Testimonials
+
+> “Revolino quickly understood the scope and delivered a reliable backend in Laravel.”  
+> — *Client A, Freelance Project*
+
+> “His Flutter UI work was intuitive and polished.”  
+> — *Team Leader, College Capstone*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -43,6 +77,14 @@ Flutter app with Google Maps integration to show SMA & RS locations in Padang.
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevolinoSepvirgo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 😄 Fun Facts
+
+- ☕ I love iced coffee while coding
+- 🚆 I once built a Flutter app on a 7-hour train ride
+- 🐞 I enjoy debugging more than writing documentation
 
 ---
 
