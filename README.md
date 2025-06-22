@@ -1,8 +1,9 @@
 <!-- 👋 WELCOME BANNER -->
 <p align="center">
-  <img src="revolino.png" alt="Revolino Profile" width="180" style="border-radius: 50%" />
+  <img src="revolino.png" alt="Revolino Profile"
+       width="160"
+       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
-
 <h1 align="center">Hi there, I'm Revolino Sepvirgo 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFC2&center=true&vCenter=true&width=440&lines=Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+Dart+%7C+SQLite;Lover+of+Clean+Code+%26+UI;Code+with+purpose" alt="Typing SVG" />
