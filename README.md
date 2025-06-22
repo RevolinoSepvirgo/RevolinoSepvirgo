@@ -2,9 +2,7 @@
   <img src="profil.jpg" alt="Revolino Profile" width="200" style="border-radius: 50%" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/ZVh01dm/banner-github-revolino.png" alt="Revolino Sepvirgo Banner" />
-</p>
+
 
 # 👋 Hi, I'm Revolino Sepvirgo
 
