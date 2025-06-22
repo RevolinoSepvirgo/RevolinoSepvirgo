@@ -1,6 +1,6 @@
 <!-- 👋 WELCOME BANNER -->
 <p align="center">
-  <img src="revolino.png" alt="Revolino Profile" width="60%" />
+  <img src="revolino.png" alt="Revolino Profile" width="40%" />
 </p>
 <h1 align="center">Hi there, I'm Revolino Sepvirgo 👋</h1>
 <p align="center">
@@ -37,6 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RevolinoSepvirgo&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevolinoSepvirgo&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
 
 ---
 
