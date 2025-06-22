@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="profil.jpg" alt="Revolino Profile" width="200" style="border-radius: 50%" />
+</p>
+
+<p align="center">
   <img src="https://i.ibb.co/ZVh01dm/banner-github-revolino.png" alt="Revolino Sepvirgo Banner" />
 </p>
 
@@ -55,7 +59,7 @@ Flutter app with Google Maps integration to show SMA & RS locations in Padang.
 
 ## 🏅 Certifications
 
-- 📜 Dicoding Flutter Developer — 2024
+- 📜 Dicoding Flutter Developer — 2024  
 - 📜 Google Indonesia Scholarship (Mobile Track) — 2023
 
 ---
@@ -82,9 +86,9 @@ Flutter app with Google Maps integration to show SMA & RS locations in Padang.
 
 ## 😄 Fun Facts
 
-- ☕ I love iced coffee while coding
-- 🚆 I once built a Flutter app on a 7-hour train ride
-- 🐞 I enjoy debugging more than writing documentation
+- ☕ I love iced coffee while coding  
+- 🚆 I once built a Flutter app on a 7-hour train ride  
+- 🐞 I enjoy debugging more than writing documentation  
 
 ---
 
