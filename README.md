@@ -1,6 +1,6 @@
 <!-- 👋 WELCOME BANNER -->
 <p align="center">
-  <img src="profil_revo.png" alt="Revelino profil" width="100%" />
+  <img src="profil_revo.png" alt="Revolino Profile" width="180" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Hi there, I'm Revolino Sepvirgo 👋</h1>
@@ -15,7 +15,7 @@
 - 🔭 I’m building intuitive and responsive apps using **Flutter** & **Laravel**
 - 🎯 Focus: *Mobile development, APIs, UI/UX Design*
 - 💡 Currently learning: *Riverpod, REST API Security, Deployment CI/CD*
-- 🎧 Fun fact: I enjoy coding sambil ngopi ,dengar breaxbeat & 🚬 🔥
+- 🎧 Fun fact: I enjoy coding sambil ngopi, dengar breakbeat & 🚬 🔥
 
 ---
 
@@ -29,7 +29,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
 
 ---
 
