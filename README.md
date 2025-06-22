@@ -3,7 +3,7 @@
   <img src="assets/banner-revolino.png" alt="Revolino Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Revolino Sepvirgo (@RevolinoSepvirgo) 👋</h1>
+<h1 align="center">Hi there, I'm Revolino Sepvirgo 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFC2&center=true&vCenter=true&width=440&lines=Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+Dart+%7C+SQLite;Lover+of+Clean+Code+%26+UI;Code+with+purpose" alt="Typing SVG" />
 </p>
@@ -15,7 +15,7 @@
 - 🔭 I’m building intuitive and responsive apps using **Flutter** & **Laravel**
 - 🎯 Focus: *Mobile development, APIs, UI/UX Design*
 - 💡 Currently learning: *Riverpod, REST API Security, Deployment CI/CD*
-- 🎧 Fun fact: I enjoy coding sambil ngopi & denger lo-fi Minang 🔥
+- 🎧 Fun fact: I enjoy coding sambil ngopi ,dengar breaxbeat & 🚬 🔥
 
 ---
 
@@ -29,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ---
 
