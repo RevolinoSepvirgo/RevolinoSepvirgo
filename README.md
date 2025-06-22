@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi there, I'm Revolino Sepvirgo 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFC2&center=true&vCenter=true&width=440&lines=Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+Dart+%7C+SQLite;Lover+of+Clean+Code+%26+UI;Code+with+purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFC2&center=true&vCenter=true&width=440&lines=Web+%26+Mobile+Developer;Flutter+%7C+Laravel+%7C+Dart+%7C+MySql;Lover+of+Clean+Code+%26+UI;Code+with+purpose" alt="Typing SVG" />
 </p>
 
 ---
