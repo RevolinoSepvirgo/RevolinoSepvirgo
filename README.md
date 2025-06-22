@@ -1,8 +1,6 @@
 <!-- 👋 WELCOME BANNER -->
 <p align="center">
-  <img src="revolino.png" alt="Revolino Profile"
-       width="160"
-       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="revolino.png" alt="Revolino Profile" width="60%" />
 </p>
 <h1 align="center">Hi there, I'm Revolino Sepvirgo 👋</h1>
 <p align="center">
